@@ -4,6 +4,7 @@ Liczebniki
 Konwersja liczb (kwot) na liczebniki.
 
 # Opis:
+Do pracy wystarczy sam plik Liczebniki.exe.
 Wprowadź (wklej) do górnego pola liczbę. Naciśnij [Enter] lub przycisk "Przepisz".
 Program sformatuje tą liczbę w ten sposób, że oddzieli tysiące itd. spacjami i zaokrągli
 do dwóch miejsc po przecinku oraz przepisze słowami tę liczbę do dolnego pola.
