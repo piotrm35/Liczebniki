@@ -1,0 +1,31 @@
+C:\Users\michalowskip\Documents\tmp\Liczebniki\Liczebniki\bin\Debug\Liczebniki.exe
+C:\Users\michalowskip\Documents\tmp\Liczebniki\Liczebniki\bin\Debug\Liczebniki.pdb
+C:\Users\michalowskip\Documents\tmp\Liczebniki\Liczebniki\obj\x86\Debug\Liczebniki.Liczebniki_Form.resources
+C:\Users\michalowskip\Documents\tmp\Liczebniki\Liczebniki\obj\x86\Debug\Liczebniki.Properties.Resources.resources
+C:\Users\michalowskip\Documents\tmp\Liczebniki\Liczebniki\obj\x86\Debug\Liczebniki.csproj.GenerateResource.Cache
+C:\Users\michalowskip\Documents\tmp\Liczebniki\Liczebniki\obj\x86\Debug\Liczebniki.exe
+C:\Users\michalowskip\Documents\tmp\Liczebniki\Liczebniki\obj\x86\Debug\Liczebniki.pdb
+C:\Users\michalowskip\Documents\tmp\Liczebniki_0.1\Liczebniki\obj\x86\Debug\Liczebniki.exe
+C:\Users\michalowskip\Documents\tmp\Liczebniki_0.1\Liczebniki\obj\x86\Debug\Liczebniki.pdb
+C:\Users\michalowskip\Documents\tmp\Liczebniki_0.1\Liczebniki\bin\Debug\Liczebniki.exe
+C:\Users\michalowskip\Documents\tmp\Liczebniki_0.1\Liczebniki\bin\Debug\Liczebniki.pdb
+C:\Users\michalowskip\Documents\tmp\Liczebniki_0.1\Liczebniki\obj\x86\Debug\Liczebniki.Liczebniki_Form.resources
+C:\Users\michalowskip\Documents\tmp\Liczebniki_0.1\Liczebniki\obj\x86\Debug\Liczebniki.Properties.Resources.resources
+C:\Users\michalowskip\Documents\tmp\Liczebniki_0.1\Liczebniki\obj\x86\Debug\Liczebniki.csproj.GenerateResource.Cache
+C:\Users\michalowskip\Documents\tmp\Liczebniki_0.1\Liczebniki\obj\x86\Debug\Liczebniki.csprojResolveAssemblyReference.cache
+C:\Users\michalowskip\Documents\tmp\Liczebniki_0.2\Liczebniki\obj\x86\Debug\Liczebniki.exe
+C:\Users\michalowskip\Documents\tmp\Liczebniki_0.2\Liczebniki\obj\x86\Debug\Liczebniki.pdb
+C:\Users\michalowskip\Documents\tmp\Liczebniki_0.2\Liczebniki\bin\Debug\Liczebniki.exe
+C:\Users\michalowskip\Documents\tmp\Liczebniki_0.2\Liczebniki\bin\Debug\Liczebniki.pdb
+C:\Users\michalowskip\Documents\tmp\Liczebniki_0.2\Liczebniki\obj\x86\Debug\Liczebniki.csprojResolveAssemblyReference.cache
+C:\Users\michalowskip\Documents\tmp\Liczebniki_0.2\Liczebniki\obj\x86\Debug\Liczebniki.Liczebniki_Form.resources
+C:\Users\michalowskip\Documents\tmp\Liczebniki_0.2\Liczebniki\obj\x86\Debug\Liczebniki.Properties.Resources.resources
+C:\Users\michalowskip\Documents\tmp\Liczebniki_0.2\Liczebniki\obj\x86\Debug\Liczebniki.csproj.GenerateResource.Cache
+E:\Moje Dokumenty 2\C#\Liczebniki_0.3\Liczebniki\obj\x86\Debug\Liczebniki.exe
+E:\Moje Dokumenty 2\C#\Liczebniki_0.3\Liczebniki\obj\x86\Debug\Liczebniki.pdb
+E:\Moje Dokumenty 2\C#\Liczebniki_0.3\Liczebniki\bin\Debug\Liczebniki.exe
+E:\Moje Dokumenty 2\C#\Liczebniki_0.3\Liczebniki\bin\Debug\Liczebniki.pdb
+E:\Moje Dokumenty 2\C#\Liczebniki_0.3\Liczebniki\obj\x86\Debug\Liczebniki.csprojResolveAssemblyReference.cache
+E:\Moje Dokumenty 2\C#\Liczebniki_0.3\Liczebniki\obj\x86\Debug\Liczebniki.Liczebniki_Form.resources
+E:\Moje Dokumenty 2\C#\Liczebniki_0.3\Liczebniki\obj\x86\Debug\Liczebniki.Properties.Resources.resources
+E:\Moje Dokumenty 2\C#\Liczebniki_0.3\Liczebniki\obj\x86\Debug\Liczebniki.csproj.GenerateResource.Cache
